@@ -8,4 +8,4 @@
 - [Faire tourner un moteur DC](./DC_Motor/DC.md)
 - [Contrôler une pompe à vide](./Pumps/pumps.md)
 - [Communication Ethernet](./Ethernet/ethernet.md)
-- [Débugguer avec GDB](./GDB/GDB.md)
+- [Débugger avec GDB](./GDB/GDB.md)
